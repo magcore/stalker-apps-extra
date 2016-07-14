@@ -1,6 +1,6 @@
 {
     "name": "mag-apps-extra",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Meta-package with additional recommended applications.",
     "author": {
         "name": "Stanislav Kalashnik",
@@ -11,10 +11,9 @@
         "url": "https://github.com/magsdk/apps-extra.git"
     },
     "dependencies": {
+        "mag-app-olltv": "1.5.10",
         "mag-app-ivi": "1.0.1",
         "mag-app-megogo": "1.0.0",
-        "mag-app-olltv": "1.5.10",
-        "mag-app-pomogator": "1.0.0",
         "mag-app-tvzavr": "1.0.0",
         "mag-app-vidimax": "1.5.10",
         "mag-app-zoomby": "1.0.0"

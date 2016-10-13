@@ -1,27 +1,28 @@
 {
-    "name": "mag-apps-extra",
-    "version": "0.0.2",
-    "description": "Meta-package with additional recommended applications.",
+    "name": "stalker-apps-extra",
+    "version": "5.0.4",
+    "description": "MAG Core Platform meta-package with all additional applications.",
     "author": {
-        "name": "Stanislav Kalashnik",
-        "email": "darkpark.main@gmail.com"
+        "name": "Infomir",
+        "email": "support@infomir.eu"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/magsdk/apps-extra.git"
+        "url": "https://github.com/magcore/stalker-apps-extra.git"
     },
     "dependencies": {
-        "mag-app-olltv": "1.5.10",
-        "mag-app-ivi": "1.0.1",
-        "mag-app-megogo": "1.0.0",
-        "mag-app-tvzavr": "1.0.0",
-        "mag-app-vidimax": "1.5.10",
-        "mag-app-zoomby": "1.0.0"
+        "magcore-app-olltv": "1.5.10",
+        "magcore-app-ivi": "1.0.1",
+        "magcore-app-megogo": "1.0.0",
+        "magcore-app-tvzavr": "1.0.0",
+        "magcore-app-vidimax": "1.5.10",
+        "magcore-app-zoomby": "1.0.0"
     },
     "keywords": [
-        "magsdk",
+        "magcore",
         "applications",
-        "extra"
+        "extra",
+        "stalker"
     ],
     "license": "GPL-3.0"
 }

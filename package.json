@@ -1,6 +1,6 @@
 {
     "name": "stalker-apps-extra",
-    "version": "5.0.4",
+    "version": "5.1.1-r20170227",
     "description": "MAG Core Platform meta-package with all additional applications.",
     "author": {
         "name": "Infomir",
@@ -11,9 +11,10 @@
         "url": "https://github.com/magcore/stalker-apps-extra.git"
     },
     "dependencies": {
-        "magcore-app-olltv": "1.5.10",
+        "magcore-app-vk-video": "1.0.5",
         "magcore-app-ivi": "1.0.1",
-        "magcore-app-megogo": "1.0.0",
+        "magcore-app-megogo": "1.0.1",
+        "magcore-app-olltv": "1.5.11",
         "magcore-app-tvzavr": "1.0.0",
         "magcore-app-vidimax": "1.5.10",
         "magcore-app-zoomby": "1.0.0"
